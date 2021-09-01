@@ -1,0 +1,26 @@
+<html>
+<head> 
+<h1> You have connected to the locked page <h1>
+<body style="background-color:pink;">
+<style>
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
+</style>
+    <button type="button" onclick="alert(' Meow!')">Click Me!</button>
+<body>
+
+<p style="color:pink">Meowx163</p>
+
+<div class="myDiv">
+  <h2>The Cat Meow</h2>
+  <p>Meow</p>
+</div>
+
+<p>Meow</p>
+<a href="https://lh3.googleusercontent.com/efTjwT_fTuMaC_JocCdasXS5vqx_LXSTi_HqNyA_Y8cOCxHyfhHdxdtevA-HqJFAOqVN1vjZte-CbtSCCeiSVPaHkVn7wU9_nDkIqzl3MXOqCFPfon_1TjwuLxhkP5W4TrY1iigN=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/efTjwT_fTuMaC_JocCdasXS5vqx_LXSTi_HqNyA_Y8cOCxHyfhHdxdtevA-HqJFAOqVN1vjZte-CbtSCCeiSVPaHkVn7wU9_nDkIqzl3MXOqCFPfon_1TjwuLxhkP5W4TrY1iigN=w600-h315-p-k" /> </a>
+<div contenteditable="true">
+  This text can be edited by the user.
+</div>
